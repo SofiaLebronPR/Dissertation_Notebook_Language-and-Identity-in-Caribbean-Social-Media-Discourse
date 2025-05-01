@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## 📖 Citation
+
+If you use this code or dataset in your academic work, please cite it as follows:
+
+**APA Style:**
+> [Your Last Name], [Your First Initial]. ([Year]). *[Project Title]* [Computer software]. GitHub. https://github.com/yourusername/your-repo
+
+**BibTeX:**
+```bibtex
+@misc{yourlastname2025project,
+  author       = {[Your Full Name]},
+  title        = {[Project Title]},
+  year         = {2025},
+  howpublished = {\url{https://github.com/yourusername/your-repo}},
+  note         = {MIT License}
+}
