@@ -1,0 +1,35 @@
+Social Media Data Documentation
+Overview
+This repositoty contains de-identify social media post comments data follected for a doctoral dissertation research. The data is from the major Newspaper form Puerto Rico, "El Nuevo Día", 
+and from Trinidad and Tobago, "Trinidad Express Newspaper". All personally identifiable information has benn removed to ensure participant privacy. All data was collected as public data 
+that enyone can find and read in a public Facebook post.
+
+Data Collection Information
+Source Platforms
+-Platform: Facebook
+-Collection Period: From January 2020 to December 2020
+-Collection Method: ESUIT | Comments Exporter For Fecbook [https://chromewebstore.google.com/detail/esuit-comments-exporter-f/flhbkccofabjoiphncbedainkoipgggf?hl=en&pli=1]
+-Language(s): The comments that are from Puerto Rico and Trinidad and Tobago are in Spanish and English respectively, also some variatios for spanglish, and creole. 
+
+Research Context
+Study Title:
+Primary Investigator:
+
+Data Structure
+
+Data/
+|-Puerto Rico
+|--URLs
+|--JSON file
+|--CSV File
+
+|-Trinidad & Tobago
+|--URLs
+|--JSON file
+|--CSV File
+
+
+
+
+
+
